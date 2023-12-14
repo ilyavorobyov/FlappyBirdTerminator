@@ -6,7 +6,7 @@ public class EnemyShooter : MonoBehaviour
     [SerializeField] private EnemyBullet _enemyBullet;
     [SerializeField] private Transform _shotPoint;
 
-    private float _shotInterval = 1.5f;
+    private float _shotInterval = 1.6f;
     private Coroutine _shot;
 
     private void OnEnable()

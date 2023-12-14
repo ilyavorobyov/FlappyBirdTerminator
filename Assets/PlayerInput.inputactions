@@ -39,7 +39,7 @@
                 {
                     "name": "",
                     "id": "0ec1e57d-36b8-49e7-b33c-e8d56426ebf6",
-                    "path": "<Mouse>/leftButton",
+                    "path": "<Keyboard>/e",
                     "interactions": "",
                     "processors": "",
                     "groups": "mouse + keyboard",

@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class PlayerBullet : MonoBehaviour
 {
-    private float _speed = 3;
-    private float _lifeTime = 5;
+    private float _speed = 5;
+    private float _lifeTime = 1f;
 
     private void Start()
     {
